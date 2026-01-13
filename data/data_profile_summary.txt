@@ -1,0 +1,12 @@
+LEAD SCORING DATA PROFILE SUMMARY
+==================================================
+
+Original Shape: (9240, 37)
+Cleaned Shape: (9240, 38)
+Conversion Rate: 38.5%
+
+Key Behavioral Metrics:
+  TotalVisits: mean=3.44, std=4.82
+  Total Time Spent on Website: mean=487.70, std=548.02
+  Page Views Per Visit: mean=2.36, std=2.15
+  engagement_score: mean=0.12, std=0.12

@@ -1,0 +1,37 @@
+{
+  "Low Value": {
+    "count": 2534,
+    "avg_engagement": 0.006,
+    "conversion_rate": 0.374,
+    "avg_visits": 0.2,
+    "avg_time_on_site": 21.8
+  },
+  "At Risk": {
+    "count": 3544,
+    "avg_engagement": 0.072,
+    "conversion_rate": 0.185,
+    "avg_visits": 3.8,
+    "avg_time_on_site": 262.8
+  },
+  "Champions": {
+    "count": 2501,
+    "avg_engagement": 0.298,
+    "conversion_rate": 0.698,
+    "avg_visits": 4.3,
+    "avg_time_on_site": 1284.7
+  },
+  "Potential Loyalists": {
+    "count": 658,
+    "avg_engagement": 0.14,
+    "conversion_rate": 0.321,
+    "avg_visits": 10.2,
+    "avg_time_on_site": 464.6
+  },
+  "Highly Engaged": {
+    "count": 3,
+    "avg_engagement": 0.295,
+    "conversion_rate": 0.333,
+    "avg_visits": 169.0,
+    "avg_time_on_site": 330.3
+  }
+}
