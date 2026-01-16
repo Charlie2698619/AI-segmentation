@@ -350,32 +350,7 @@ class AgentState(TypedDict):
 - `seen_content` set deduplicates messages in UI
 - `current_step` counter prevents infinite loops
 
----
-
-## 🚧 Future Improvements
-
-### V2 Roadmap
-- [ ] **Self-correction loop** - Automatic retry before asking user
-- [ ] **Conversation memory** - Multi-turn context
-- [ ] **More chart types** - Line, scatter, heatmap
-- [ ] **Export functionality** - CSV, PDF reports
-- [ ] **SQLGlot validation** - Syntax checking before execution
-- [ ] **Prompt caching** - Reduce API costs
-- [ ] **Streaming responses** - Real-time output
-- [ ] **Authentication** - User login system
-
-### Performance Optimizations
-- [ ] Query caching for repeated questions
-- [ ] Async agent execution
-- [ ] Connection pooling for SQLite
-
----
-
-## 📄 License
-
-MIT License - See LICENSE file for details.
-
----
+```
 
 ## 🙏 Acknowledgments
 
@@ -386,4 +361,5 @@ MIT License - See LICENSE file for details.
 
 ---
 
-**Built with ❤️ using AI-assisted development**
+
+
